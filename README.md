@@ -30,4 +30,4 @@ Hi :smile:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" heigth"40" style="max-with: 100%";></img>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dassis&layout=compact)](https://github.com/Bruno-Dassis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dassis&layout=Demo)](https://github.com/Bruno-Dassis/github-readme-stats)
