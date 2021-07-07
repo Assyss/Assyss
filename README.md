@@ -15,10 +15,6 @@ Hi :smile:
 
 ## My skills
 <a href="https://devicon.dev" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" heigth"40" style="max-with: 100%";></img>
-</a>
-
-<a href="https://devicon.dev" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html5" width="40" heigth"40" style="max-with: 100%";></img>
 </a>
 
