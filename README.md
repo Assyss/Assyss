@@ -13,6 +13,8 @@
   <a href="https://icons8.com.br/icons/set/css3" target="_blank">
   <img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
   </a>
+  
+  ##
 
   <a href="https://www.flaticon.com/br/icone-gratis/javascript_919828?term=javascript&page=1&position=8&page=1&position=8&related_id=919828&origin=tag" target="_blank">
  <img width="50" height="49" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript ícone">
@@ -24,7 +26,10 @@
 <div>
    <a href="https://github.com/Bruno-Dassis">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Dassis&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+     </a>
+  <a href="https://github.com/Bruno-Dassis">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dassis&layout=compact&theme=graywhite"/>
+  </a>
 </div>
    
   ##
