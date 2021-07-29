@@ -14,8 +14,6 @@
   <img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
   </a>
   
-  ##
-
   <a href="https://www.flaticon.com/br/icone-gratis/javascript_919828?term=javascript&page=1&position=8&page=1&position=8&related_id=919828&origin=tag" target="_blank">
  <img width="50" height="49" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript ícone">
 </a>
