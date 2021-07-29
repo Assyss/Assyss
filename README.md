@@ -6,7 +6,7 @@ Hi :smile:
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/bruno-de-assis-pereira-7a411219a/" target="_blank">
-<img align="center" alt="Bruno linkedin" height="50" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-with: 100%";> 
+<img align="center" alt="Bruno linkedin" height="30" width"30" border-radius="10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-with: 100%";> 
 
 </a>
  <a href="https://www.instagram.com/_d_assis/" target="_blank">
