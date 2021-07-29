@@ -30,10 +30,10 @@ Hi :smile:
 
 <div>
   <a href="https://www.linkedin.com/in/bruno-de-assis-pereira-7a411219a/" target="_blank">
-  <img align="center" alt="Bruno linkedin" height="30" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"      style="max-with: 100%";> 
+  <img align="center" alt="Bruno linkedin" height="40" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"      style="max-with: 100%";> 
 
   </a>
   <a href="https://www.instagram.com/_d_assis/" target="_blank">
-  <img align="center" alt="Instagram" height="30" width="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-with: 100%";> 
+  <img align="center" alt="Instagram" height="40" width="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-with: 100%";> 
   </a>
  </div>
