@@ -27,10 +27,15 @@
    <a href="https://github.com/Bruno-Dassis">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Dassis&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
      </a>
-  <a href="https://github.com/Bruno-Dassis">
+</div>
+
+##
+
+<div>
+   <a href="https://github.com/Bruno-Dassis">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dassis&layout=compact&theme=graywhite"/>
   </a>
-</div>
+</div>  
    
   ##
 
