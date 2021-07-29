@@ -10,7 +10,7 @@ Hi :smile:
 
 </a>
  <a href="https://www.instagram.com/_d_assis/" target="_blank">
-<img align="center" alt="Instagram" height="50" width"40" src="https://image.flaticon.com/icons/png/128/1384/1384886.png" style="max-with: 100%";> 
+<img align="center" alt="Instagram" height="50" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-with: 100%";> 
  </a>
 
 ## My skills
