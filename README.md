@@ -23,7 +23,7 @@ Hi :smile:
 </a>
 
 <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="40" heigth"40" border-radius="5px" style="max-with: 100%";></img>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="65" heigth"60" border-radius="5px" style="max-with: 100%";></img>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dassis&layout=Demo)](https://github.com/Bruno-Dassis/github-readme-stats)
