@@ -6,16 +6,16 @@
  ##
  
 <div>
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" width="113" heigth"90" style="max-with: 100%";></img>
+  <a href="https://www.flaticon.com/br/icone-gratis/html-5_2535518?term=html5&page=1&position=11&page=1&position=11&related_id=2535518&origin=search" target="_blank">
+  <img width="55" height="54" src="https://image.flaticon.com/icons/png/512/2535/2535518.png" alt="html 5 ícone">
   </a>
 
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css" width="100" heigth"80" style="max-with: 100%";></img>
+  <a href="https://icons8.com.br/icons/set/css3" target="_blank">
+  <img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
   </a>
 
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="160" heigth"150" style="max-with: 100%";></img>
+  <a href="https://www.flaticon.com/br/icone-gratis/javascript_919828?term=javascript&page=1&position=8&page=1&position=8&related_id=919828&origin=tag" target="_blank">
+ <img width="50" height="49" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript ícone">
 </a>
 </div>
 
