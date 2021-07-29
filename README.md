@@ -37,3 +37,5 @@
     <img align="center" alt="Instagram" height="40" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"        style="max-with: 90%";> 
   </a>
  </div>
+  
+  ![Snake animation](https://github.com/rafaballerini/Bruno-Dassis/blob/output/github-contribution-grid-snake.svg)
