@@ -6,16 +6,16 @@
  ##
  
 <div>
-  <a href="https://www.flaticon.com/br/icone-gratis/html-5_2535518?term=html5&page=1&position=11&page=1&position=11&related_id=2535518&origin=search" target="_blank">
-  <img width="55" height="54" src="https://image.flaticon.com/icons/png/512/2535/2535518.png" alt="html 5 ícone">
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+  <img width="105" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="ícone HTML5">
   </a>
 
-  <a href="https://icons8.com.br/icons/set/css3" target="_blank">
-  <img src="https://img.icons8.com/dusk/50/000000/css3.png"/>
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+  <img width="105" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="ícone CSS3"/>
   </a>
   
-  <a href="https://www.flaticon.com/br/icone-gratis/javascript_919828?term=javascript&page=1&position=8&page=1&position=8&related_id=919828&origin=tag" target="_blank">
- <img width="50" height="49" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript ícone">
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+ <img width="105" height="29" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ícone JavaScript">
 </a>
 </div>
 
@@ -42,12 +42,13 @@
   <a href="https://www.linkedin.com/in/bruno-de-assis-pereira-7a411219a/" target="_blank">
     <img align="center" alt="Bruno linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-with: 90%";> 
   </a>
-  <a href="https://www.instagram.com/_d_assis/" target="_blank">
-    <img align="center" alt="Bruno Instagram" height="30" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"style="max-with: 90%";> 
-  </a>
   
   <a href="https://t.me/Assis_0">
     <img align="center" alt="Bruno Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/_d_assis/" target="_blank">
+    <img align="center" alt="Bruno Instagram" height="30" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"style="max-with: 90%";> 
   </a>
   
   ![Snake animation](https://github.com/Bruno-Dassis/Bruno-Dassis/blob/output/github-contribution-grid-snake.svg)
