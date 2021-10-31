@@ -22,7 +22,7 @@
   ##
 
 <div>
-   <a href="https://github.com/Bruno-Dassis">
+   <a href="https://github.com/Brunastico">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Dassis&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
      </a>
 </div>
@@ -30,7 +30,7 @@
 ##
 
 <div>
-   <a href="https://github.com/Bruno-Dassis">
+   <a href="https://github.com/Brunastico">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Dassis&layout=compact&theme=graywhite"/>
   </a>
 </div>  
@@ -47,10 +47,10 @@
     <img align="center" alt="Bruno Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   
-  <a href="https://www.instagram.com/_d_assis/" target="_blank">
+  <a href="https://www.instagram.com/_assisp/" target="_blank">
     <img align="center" alt="Bruno Instagram" height="30" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"style="max-with: 90%";> 
   </a>
   
-  ![Snake animation](https://github.com/Bruno-Dassis/Bruno-Dassis/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Brunastico/Brunastico/blob/output/github-contribution-grid-snake.svg)
   
  </div>
