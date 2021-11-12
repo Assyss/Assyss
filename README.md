@@ -43,7 +43,7 @@
     <img align="center" alt="Bruno linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-with: 90%";> 
   </a>
   
-  <a href="https://t.me/Assis_0">
+  <a href="https://t.me/Brunastic">
     <img align="center" alt="Bruno Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   
