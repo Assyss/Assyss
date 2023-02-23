@@ -41,15 +41,17 @@
   <a href="https://www.linkedin.com/in/bruno-de-assis-pereira-7a411219a/" target="_blank">
     <img align="center" alt="Bruno linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-with: 90%";> 
   </a>
-  
-  <a href="https://t.me/Brunastic">
-    <img align="center" alt="Bruno Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/_assisp/" target="_blank">
+
+   
+  <a href="https://www.instagram.com/assyszz/" target="_blank">
     <img align="center" alt="Bruno Instagram" height="30" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"style="max-with: 90%";> 
   </a>
   
+ 
+  <a href="https://t.me/Brunastic">
+    <img align="center" alt="Bruno Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+
   ![Snake animation](https://github.com/Brunastico/Brunastico/blob/output/github-contribution-grid-snake.svg)
   
  </div>
