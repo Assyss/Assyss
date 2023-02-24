@@ -21,7 +21,7 @@
   ##
 
 <div>
-   <a href="https://github.com/Brunastico">
+   <a href="https://github.com/Assyss">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunastico&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
      </a>
 </div>
@@ -29,10 +29,10 @@
 ##
 
 <div>
-   <a href="https://github.com/Brunastico">
+   <a href="https://github.com/Assyss">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunastico&layout=compact&theme=graywhite"/>
   </a>
-</div>  
+</div> 
    
   ##
 
