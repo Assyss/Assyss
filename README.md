@@ -1,7 +1,5 @@
 <img align="right" src="https://media2.giphy.com/media/v9SiXoqnirrPD422uI/200w.gif?cid=82a1493bh5kh2z20hho0o9vepq96b64hah1miisquv5tcmc8&rid=200w.gif&ct=g" alt="Adventuretim GIFs - Get the best GIF on GIPHY" data-noaft="1" style="width: 200px; height: 200px; margin: 0px;">
 
- ##
- 
 <div>
   <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
   <img width="105" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="ícone HTML5">
