@@ -1,53 +1,37 @@
-<img align="right" src="https://media2.giphy.com/media/v9SiXoqnirrPD422uI/200w.gif?cid=82a1493bh5kh2z20hho0o9vepq96b64hah1miisquv5tcmc8&rid=200w.gif&ct=g" alt="Adventuretim GIFs - Get the best GIF on GIPHY" data-noaft="1" style="width: 200px; height: 200px; margin: 0px;">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
-<div>
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-  <img width="105" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="ícone HTML5">
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Assis;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
-  <img width="105" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="ícone CSS3"/>
-  </a>
-  
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
- <img width="105" height="29" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ícone JavaScript">
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=ADFF2F&icon_color=ADFF2F&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Assis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=ADFF2F&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-  ##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Assyss&bg_color=14141&color=72f82a&line=55f529&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-   <a href="https://github.com/Assyss">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-     </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Assyss&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center"> 
+<a href="https://instagram.com/Assysxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%ADFF2F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:cmp.1a.brunoassispe@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruno-de-assis-7b1316237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-##
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<div>
-   <a href="https://github.com/Assyss">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&theme=graywhite"/>
-  </a>
-</div> 
+### Studying in this moment:
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
 
-  ##
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Assyss}/count.svg" /></p> 
+<br>
+</div>
 
-<div>
-  
-  <a href="https://www.linkedin.com/in/bruno-de-assis-pereira-7a411219a/" target="_blank">
-    <img align="center" alt="Bruno linkedin" height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-with: 90%";> 
-  </a>
-
-   
-  <a href="https://www.instagram.com/assyszz/" target="_blank">
-    <img align="center" alt="Bruno Instagram" height="30" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"style="max-with: 90%";> 
-  </a>
-  
- 
-  <a href="https://t.me/Brunastic">
-    <img align="center" alt="Bruno Telegram" height="30" width="110" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-
-  ![Snake animation](https://github.com/Brunastico/Brunastico/blob/output/github-contribution-grid-snake.svg)
-  
- </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=footer"/>
