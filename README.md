@@ -19,7 +19,6 @@
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
