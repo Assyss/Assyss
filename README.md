@@ -1,15 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8D173&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Assis;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8D173&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Assis;I'm+21+years+old;I'm+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
+
+<p align="center">
+<img src="https://github.com/Assyss/Gif/blob/main/lich.gif" borderradius="50%"/p>
+</p>
+
+
+
+<div align="center"></div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=E8D173&icon_color=E8D173&text_color=c9d1d9&bg_color=000000" alt="Bruno Assis github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=E8D173&text_color=c9d1d9&bg_color=000000" />
 </div>
 
-#
-
 <a href="[https://tenor.com/pt-BR/search/hora-de-la-aventura-gifs](https://media1.tenor.com/m/pPdzJD7xxPEAAAAd/malo-hora-de-la-aventura.gif)"></a>
+
+#
 
 <div align="left">
 <a href="https://www.linkedin.com/in/bruno-de-assis-7b1316237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
@@ -30,6 +38,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-084A86?style=for-the-badge&logo=c%2B%2B&logoColor=084A86&labelColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=purpl&labelColor=purple)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+
+#
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
