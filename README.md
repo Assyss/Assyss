@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8D173&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Assis;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=E8D173&icon_color=E8D173&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Assis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=E8D173&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=E8D173&icon_color=E8D173&text_color=c9d1d9&bg_color=000000" alt="Bruno Assis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=E8D173&text_color=c9d1d9&bg_color=000000" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Assyss&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+# 
 
-<div align="center">
+<a href="[https://tenor.com/pt-BR/search/hora-de-la-aventura-gifs](https://media1.tenor.com/m/pPdzJD7xxPEAAAAd/malo-hora-de-la-aventura.gif)"></a>
+
+<div align="left">
 <a href="https://www.linkedin.com/in/bruno-de-assis-7b1316237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.instagram.com/azyzss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  style="border-radius: 30px" target="_blank">
 </div>
