@@ -41,4 +41,13 @@
 
 #
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
