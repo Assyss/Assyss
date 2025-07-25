@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000000&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8D173&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Assis;I'm+22+years+old;I'm+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"></div>
@@ -17,7 +16,7 @@
 <a href="https://www.linkedin.com/in/bruno-de-assis-7b1316237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
- ### Main skills:
+ ### Main skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&labelColor=white&textColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=blue&labelColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-239120?style=for-the-badge&logo=Node.js&labelColor=white)&nbsp;
@@ -26,12 +25,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)&nbsp;
 
 
-### Studying in this moment:
+### Studying in this moment
 ![C](https://img.shields.io/badge/C-A4B4C7?style=for-the-badge&logo=c&logoColor=A4B4C7&labelColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-084A86?style=for-the-badge&logo=c%2B%2B&logoColor=084A86&labelColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=purpl&labelColor=purple)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
 #
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
