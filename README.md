@@ -17,15 +17,12 @@
 
  ### Main skills
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&labelColor=white&textColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=blue&labelColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-239120?style=for-the-badge&logo=Node.js&labelColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&labelColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)&nbsp;
-
-
-### Studying in this moment
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
 #
 
