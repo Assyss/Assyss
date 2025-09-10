@@ -1,15 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8D173&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Assis;I'm+23+years+old;I'm+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=beedf4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Assis;I'm+23+years+old;I'm+from+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"></div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=E8D173&icon_color=E8D173&text_color=c9d1d9&bg_color=000000" alt="Bruno Assis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=E8D173&text_color=c9d1d9&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=beedf4&text_color=fff&bg_color=000000" alt="Bruno Assis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000000" />
 </div>
-
-<a href="[https://tenor.com/pt-BR/search/hora-de-la-aventura-gifs](https://media1.tenor.com/m/pPdzJD7xxPEAAAAd/malo-hora-de-la-aventura.gif)"></a>
 
 ### Networks
 
