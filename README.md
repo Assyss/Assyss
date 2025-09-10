@@ -27,9 +27,6 @@
 
 
 ### Studying in this moment
-![C](https://img.shields.io/badge/C-A4B4C7?style=for-the-badge&logo=c&logoColor=A4B4C7&labelColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-084A86?style=for-the-badge&logo=c%2B%2B&logoColor=084A86&labelColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=purpl&labelColor=purple)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
 #
