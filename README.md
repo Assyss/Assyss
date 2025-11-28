@@ -4,8 +4,7 @@
 
 <div align="center"></div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Assyss&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=beedf4&text_color=fff&bg_color=000000" alt="Bruno Assis github stats" /> 
+<div align="center">   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyss&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000000" />
 </div>
 
